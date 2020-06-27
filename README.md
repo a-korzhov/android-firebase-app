@@ -1,3 +1,6 @@
-# CloudApp
+# University assignment 
 
-Android Application with Sign Up/Sign In and CRUD using Firebase
+## Android application with following functionality, using Google Firebase: 
+  - Sign Up
+  - Sign In 
+  - CRUD operations
